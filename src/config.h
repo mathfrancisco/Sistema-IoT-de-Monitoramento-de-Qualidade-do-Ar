@@ -17,12 +17,12 @@
 //  MQTT — TagoIO
 //  Crie um Device em app.tago.io e cole o token abaixo.
 // ------------------------------------------------------------
-#define MQTT_SERVER   "mqtt.tago.io"
+#define MQTT_SERVER   "broker.hivemq.com"
 #define MQTT_PORT     1883
-#define MQTT_USER     "MFTecnologia"         // Pode ser qualquer string no TagoIO
-#define MQTT_PASSWORD "SEU_DEVICE_TOKEN_AQUI" // Token gerado pelo TagoIO
+#define MQTT_USER     ""
+#define MQTT_PASSWORD ""
 #define MQTT_TOPIC    "mftecnologia/escritorio/ar"
-#define MQTT_CLIENT_ID "esp32-mf-escritorio"
+#define MQTT_CLIENT_ID "mf-dashboard-monitor"
 
 // ------------------------------------------------------------
 //  Pinos do ESP32
