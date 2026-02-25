@@ -8,7 +8,7 @@
 //   ╚═╝     ╚═╝╚═╝            ╚═╝   ╚══════╝ ╚═════╝
 //
 //   Sistema IoT de Monitoramento de Qualidade do Ar
-//   MF Tecnologia e Sistemas — Projeto Integrador 2025
+//   MF Tecnologia e Sistemas — Projeto Integrador 
 //   Tópico 2: "Como é o ar que você respira?"
 //   Alinhado ao ODS 3 — Saúde e Bem-Estar (ONU)
 //
