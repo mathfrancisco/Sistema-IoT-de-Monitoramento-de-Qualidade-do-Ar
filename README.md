@@ -80,7 +80,7 @@ O sistema opera em um ciclo contínuo de **5 segundos** com 5 fases bem definida
 |---|---|
 | 🖥️ Simulador Wokwi | `[INSERIR LINK DO WOKWI APÓS CRIAR]` |
 | 📊 Dashboard (TagoIO/Adafruit) | `[INSERIR LINK DO DASHBOARD]` |
-| 📐 Fluxograma (LucidChart) | `[INSERIR LINK DO FLUXOGRAMA]` |
+| 📐 Fluxograma (LucidChart) | `(https://lucid.app/lucidchart/eee9f12f-1672-403d-800d-662465c7eae6/edit?viewport_loc=-5939%2C-8493%2C16535%2C8555%2C0_0&invitationId=inv_8c78659e-f4a6-4b0b-914e-472c49d85950)` |
 
 ---
 
